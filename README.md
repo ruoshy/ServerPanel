@@ -1,11 +1,15 @@
 ### 文件管理面板
-
-
-![](https://github.com/ruoshy/demo/blob/master/rimg/sp.png)  
-![](https://github.com/ruoshy/demo/blob/master/rimg/sp2.png)  
-![](https://github.com/ruoshy/demo/blob/master/rimg/sp3.png)  
-![](https://github.com/ruoshy/demo/blob/master/rimg/sp4.png)  
-![](https://github.com/ruoshy/demo/blob/master/rimg/sp5.png)  
+<style>
+  .wk{
+    width:300px;
+    height:200;
+  }
+</style>
+<img src="https://github.com/ruoshy/demo/raw/master/rimg/sp.png" class="wk">
+<img src="https://github.com/ruoshy/demo/raw/master/rimg/sp2.png" class="wk">
+<img src="https://github.com/ruoshy/demo/raw/master/rimg/sp3.png" class="wk">
+<img src="https://github.com/ruoshy/demo/raw/master/rimg/sp4.png" class="wk">
+<img src="https://github.com/ruoshy/demo/raw/master/rimg/sp5.png" class="wk">
 
 
 
