@@ -28,6 +28,6 @@
 
 ### Novel
 
-![](https://github.com/ruoshy/demo/raw/master/rimg/n1.png)  
-![](https://github.com/ruoshy/demo/raw/master/rimg/n2.png) 
-![](https://github.com/ruoshy/demo/raw/master/rimg/n3.png) 
+![](https://github.com/ruoshy/demo/raw/master/rimg/nv1.png)  
+![](https://github.com/ruoshy/demo/raw/master/rimg/nv2.png)  
+![](https://github.com/ruoshy/demo/raw/master/rimg/nv3.png)  
