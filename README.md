@@ -1,5 +1,25 @@
 Demo  
-![文件管理面板](https://github.com/ruoshy/demo/blob/master/rimg/sp.png)
-![](https://github.com/ruoshy/demo/blob/master/rimg/sp2.png)
+###文件管理面板
+![](https://github.com/ruoshy/demo/blob/master/rimg/sp.png)  
+![](https://github.com/ruoshy/demo/blob/master/rimg/sp2.png)  
+![](https://github.com/ruoshy/demo/blob/master/rimg/sp3.png)  
+![](https://github.com/ruoshy/demo/blob/master/rimg/sp4.png)  
+![](https://github.com/ruoshy/demo/blob/master/rimg/sp5.png)  
+
+###ftp文件上传
+![](https://github.com/ruoshy/demo/blob/master/rimg/ftp.png)  
+
+###咸鱼商城
+![](https://github.com/ruoshy/demo/blob/master/rimg/mall1.png) 
+![](https://github.com/ruoshy/demo/blob/master/rimg/mall2.png) 
+![](https://github.com/ruoshy/demo/blob/master/rimg/mall3.png) 
+![](https://github.com/ruoshy/demo/blob/master/rimg/mall4.png) 
 
 
+###咸书
+![](https://github.com/ruoshy/demo/blob/master/rimg/mall1.png) 
+![](https://github.com/ruoshy/demo/blob/master/rimg/mall2.png) 
+![](https://github.com/ruoshy/demo/blob/master/rimg/mall3.png) 
+![](https://github.com/ruoshy/demo/blob/master/rimg/mall4.png) 
+![](https://github.com/ruoshy/demo/blob/master/rimg/mall5.png) 
+![](https://github.com/ruoshy/demo/blob/master/rimg/mall6.png) 
